@@ -3,9 +3,6 @@
 
 [brianrahadi.com](https://www.brianrahadi.com/)
 
-Current: [treehouse.place](https://treehouse.place), [sfucourses.com](https://sfucourses.com)  
-Past: [sfusurge.com](https://sfusurge.com), [sfussss.org](https://sfussss.org)
-
 <!-- [<img align="left" alt="brianrahadi | LinkedIn" width="22px" src="./svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="brianrahadi | Gmail" width="22px" src="./svg/gmail.svg" />][gmail]
 
